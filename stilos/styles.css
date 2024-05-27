@@ -1,0 +1,111 @@
+a{
+  color:#f47309;
+  font-size: 30px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  
+}
+
+
+.barra{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10px 0;
+    background: transparent;
+    
+   
+  }
+
+  
+footer {
+    color:#f3f308;
+    font-size: 25px;
+    text-align: center;
+    
+    
+    
+  }
+  
+.barra ul {
+    
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+
+    }
+  
+.barra li {
+    
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    
+  }
+  
+.barra a {
+    text-decoration: none;
+    color: #eee20b;
+    padding: 10px 15px;
+    background-color: rgba(34, 117, 63, 0.386);
+    
+  }
+
+body{
+        background-image: url('don.jpg');
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-attachment: fixed;
+        
+    }
+h4{
+  color:#e2ff07;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+h2{
+  color:rgb(3, 246, 161);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display:flex;
+  padding: 5px;
+  justify-content: space-around;
+  background-color: rgba(44, 101, 71, 0.248);
+  margin: 5px;
+
+  
+  
+
+}
+p{
+  color:rgba(241, 249, 11, 0.689);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+h5{
+  color:rgb(123, 190, 241);
+
+  text-align: center;
+  font-size: 25px;
+}
+h3{
+  color:#9af658;
+  font-size: 30px;
+  text-align: center;
+}
+h1{
+  color:#ebdc08;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 10px 0;
+  background: transparent;
+  font-size: 45px;
+}
+
+
+  
+
